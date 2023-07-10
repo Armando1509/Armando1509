@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Armando Gómez Sánchez</h1>
 <h3 align="center">Developer Full-Stack Web</h3>
+I am an enthusiastic Full Stack developer who has recently graduated from an intensive bootcamp 🎓. During my training, I gained solid skills in programming languages such as JavaScript, HTML, and CSS, as well as experience using popular frameworks like React and Node.js.
+
+My passion for problem-solving and my ability to learn quickly have enabled me to tackle technical challenges with confidence 💪. I am excited to apply my newly acquired knowledge and collaborate with development teams to build effective and high-performance web solutions 🌐.
+
+Although I don't have previous work experience, I am eager to demonstrate my dedication, perseverance, and ability to learn in a professional environment. I am committed to continuous growth and ready to take on any challenge that comes my way as a Full Stack developer. 🔥
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armando1509" alt="armando1509" /></a> </p>
 
 - 👯 Proyectos en colaboracion [TecnoCAMP](https://tecno-camp-front-production.up.railway.app/)
+  
+- 👯 Proyectos en colaboracion [Paby](https://front-paby-production.up.railway.app/)
 
 - 💬 Pregunta acerca de **React, Node.js, Sequelize, Redux Toolkit**
 
