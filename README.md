@@ -18,7 +18,7 @@ Although I don't have previous work experience, I am eager to demonstrate my ded
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jose-armando-gomez-sanchez-2b1a1424a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-armando-gomez-sanchez-2b1a1424a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jose-armando-gomez-sanchez-2b1a1424a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-armando-gomez-sanchez-2b1a1424a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
